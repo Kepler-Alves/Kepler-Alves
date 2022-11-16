@@ -1,16 +1,46 @@
-### Hi there 👋
+### Hi! I'm Kepler and welcome to my github profile.
+<img width="1000" height= "300" src="https://user-images.githubusercontent.com/59963744/202289168-76f63010-7833-4557-85d5-aaab367d324c.png"/>
 
-<!--
-**Kepler-Alves/Kepler-Alves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me
+<img align="right" width="300" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" />
+  I'm a brazilian programmer working as an RPA developer,  and currently studying for a Bachelor's degree in Information Systems. 👨‍💻    
+  
+  I'm currently working in my undergraduate thesis in the use of Convolutional neural network for public safety.
+  
+#### Automation
+>
+> - Blue prism.
+> - UiPath.
+> - Power Platform.
+> - Automation Anywhere.
+>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+## Tools and technologies
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60"/>
+
+Database
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="60" height="60"/>
+
+Tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="60" height="60"/>
+
+### Currently learning
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="70" height="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="70" height="70" />
+### Stats
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kepler-Alves&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kepler-Alves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+### Contact me
+<div>
+<a href="https://www.linkedin.com/in/kepler-a-b3ba85142/" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/59963744/202018199-2781e2a8-0b60-45f8-844f-d5031f32bc16.png"></a>   
+</div>
