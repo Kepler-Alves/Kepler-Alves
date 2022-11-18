@@ -39,8 +39,9 @@ Tools
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kepler-Alves&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kepler-Alves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
+<!--
 ### Contact me
 <div>
-<a href="https://www.linkedin.com/in/kepler-a-b3ba85142/" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/59963744/202018199-2781e2a8-0b60-45f8-844f-d5031f32bc16.png"></a>   
+<a href="--------" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/59963744/202018199-2781e2a8-0b60-45f8-844f-d5031f32bc16.png"></a>   
 </div>
+--/>
