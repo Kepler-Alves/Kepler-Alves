@@ -4,16 +4,16 @@
 
 ## About Me
 <img align="right" width="300" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" />
-  I'm a brazilian Information Systems graduate, currently working as an RPA developer. 👨‍💻    
+  I'm a brazilian Information Systems graduate, currently working as an RPA developer using C#. 👨‍💻    
   
   
 #### Automation
 >
+> - C#
 > - Blue prism.
 > - UiPath.
 > - Power Platform.
 > - Automation Anywhere.
->
 
 
 
